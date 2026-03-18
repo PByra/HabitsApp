@@ -18,6 +18,11 @@
       },
       "package": "com.habitsapp"
     },
-    "platforms": ["android", "ios", "web"]
+    "platforms": ["android", "ios", "web"],
+    "extra": {
+      "eas": {
+        "projectId": "fb1464a7-2a37-4448-b9aa-1f8c34edfa05"
+      }
+    }
   }
 }
